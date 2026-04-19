@@ -83,8 +83,7 @@ Controls which operation result is forwarded to output
 
 Below is the Proteus simulation of the ALU circuit:
 
-
-::contentReference[oaicite:3]{index=3}
+![ALU Proteus Simulation](assets/alu-proteus.png)
 
 
 > The simulation (also shown in the report page 7) demonstrates correct behavior of logic gates and operation switching :contentReference[oaicite:4]{index=4}.
@@ -93,19 +92,10 @@ Below is the Proteus simulation of the ALU circuit:
 
 ##  Hardware Implementation
 
-The circuit was also implemented physically using a breadboard:
-
-
-::contentReference[oaicite:5]{index=5}
+The circuit was also implemented physically using a breadboard
 
 
 > Real hardware implementation confirms the correctness of the design beyond simulation :contentReference[oaicite:6]{index=6}.
-
----
-
-##  Project Demo
-
-![ALU Proteus Simulation](assets/alu-proteus.png)
 
 ---
 
