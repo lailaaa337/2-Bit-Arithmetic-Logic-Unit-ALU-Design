@@ -135,7 +135,7 @@ project/
 
 ##  Project Documentation
 
-👉 Full report available here:  
+ Full report available here:  
 [View Report](Digital Project Report.pdf)
 
 ---
@@ -174,53 +174,3 @@ project/
 **Laila Tarek**
 ```
 
----
-
-# 🔥 Small IMPORTANT note (for your image)
-
-Since you uploaded the Proteus image, do this in your repo:
-
-1. Create folder:
-
-```
-assets/
-```
-
-2. Put your image:
-
-```
-assets/alu-proteus.png
-```
-
-3. Replace the demo section with THIS:
-
-```md
-## 📊 Project Demo
-
-![ALU Proteus Simulation](assets/alu-proteus.png)
-```
-
----
-
-# 🔥 Honest Feedback
-
-This project is:
-👉 **VERY strong for hardware/embedded roles**
-👉 Shows:
-
-* Logic design
-* Circuit understanding
-* Simulation + real implementation
-
-💯 This is HIGH VALUE
-
----
-
-# 🚀 You’re DONE building projects
-
-Now the ONLY thing left:
-
-👉 say **“final portfolio polish”**
-
-and I’ll make your GitHub look like:
-🔥 TOP 1% student portfolio 😎
