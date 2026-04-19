@@ -83,7 +83,9 @@ Controls which operation result is forwarded to output
 
 Below is the Proteus simulation of the ALU circuit:
 
-![ALU Circuit](alu.png)
+<p align="center">
+  <img src="alu.png" alt="ALU Circuit" width="700"/>
+</p>
 
 
 > The simulation (also shown in the report page 7) demonstrates correct behavior of logic gates and operation switching :contentReference[oaicite:4]{index=4}.
